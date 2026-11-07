@@ -66,8 +66,9 @@ def script_settings(name):
     (so reading the MLP settings does not need torch)."""
     from pathlib import Path
     src = open(os.path.join(repo_dir, 'scripts', name)).read()
-    start = src.index('# ---------------- SETTINGS')
-    end = src.index('# ------------------------------------------', start + 40)
+    import re
+    start = re.search(r'^# -*\s*SETTINGS', src, re.M).start()   # the '# SETTINGS' line
+    end = src.index('\n\n\n', start)                             # block ends at the first double blank line
     ns = {'ROOT': Path(repo_dir), 'Path': Path}
     exec(src[start:end], ns)
     return ns
