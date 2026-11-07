@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn>=1.3
+matplotlib
+xgboost>=2.0
+shap>=0.44
+torch
+geopandas
+rasterstats
+rapidfuzz

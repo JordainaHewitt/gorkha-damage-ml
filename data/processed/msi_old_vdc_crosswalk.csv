@@ -1,0 +1,629 @@
+HRRP_VCODE,HLCIT_CODE,VDC_NAME,OCHA_VNAME,HRRP_DNAME,HRRP_VNAME,msi
+524 2 05 30 5 001,524 2 05 30 5 006,Aginchok,Aginchok,Dhading,Aginchok,8.128480911254883
+524 2 05 30 5 002,524 2 05 30 5 041,Baireni,Baireni,Dhading,Baireni,7.449000438054402
+524 2 05 30 5 003,524 2 05 30 5 009,Baseri,Baseri,Dhading,Baseri,8.334531466166178
+524 2 05 30 5 004,524 2 05 30 5 037,Benighat,Benighat,Dhading,Benighat,7.484496990839641
+524 2 05 30 5 005,524 2 05 30 5 042,Bhumisthan,Bhumesthan,Dhading,Bhumesthan,7.446539271961559
+524 2 05 30 5 006,524 2 05 30 5 010,Budhathum,Budhathum,Dhading,Budhathum,8.328688780466715
+524 2 05 30 5 007,524 2 05 30 5 030,Chainpur,Chainpur,Dhading,Chainpur,7.75171879359654
+524 2 05 30 5 008,524 2 05 30 5 047,Chhatre Deurali,ChhatreDyaurali,Dhading,ChhatreDyaurali,7.243506574630738
+524 2 05 30 5 009,524 2 05 30 5 001,Darkha,Darkha,Dhading,Darkha,8.17265374319894
+524 2 05 30 5 010,524 2 05 30 5 021,Dhol,Dhola,Dhading,Dhola,7.517082554953439
+524 2 05 30 5 011,524 2 05 30 5 038,Dhursa,Dhussa,Dhading,Dhussa,7.525124675349185
+524 2 05 30 5 012,524 2 05 30 5 007,Dhuwakot,Dhuwakot,Dhading,Dhuwakot,7.62688672542572
+524 2 05 30 5 013,524 2 05 30 5 043,Gajuri,Gajuri,Dhading,Gajuri,7.485757827758789
+524 2 05 30 5 014,524 2 05 30 5 029,Goganpani,Goganpani,Dhading,Goganpani,7.412483321295844
+524 2 05 30 5 015,524 2 05 30 5 011,Gumdi,Gumdi,Dhading,Gumdi,8.290735363960266
+524 2 05 30 5 016,524 2 05 30 5 048,Jiwanpur,Jeewanpur,Dhading,Jeewanpur,7.346949849809919
+524 2 05 30 5 017,524 2 05 30 5 016,Jharlang,Jharlang,Dhading,Jharlang,8.008333537889564
+524 2 05 30 5 018,524 2 05 30 5 039,Jogimara,Jogimara,Dhading,Jogimara,7.494531720876694
+524 2 05 30 5 019,524 2 05 30 5 023,Jyamruck,Jyamrung,Dhading,Jyamrung,7.789012258703059
+524 2 05 30 5 020,524 2 05 30 5 031,Kalleri,Kalleri,Dhading,Kalleri,7.363325302417461
+524 2 05 30 5 021,524 2 05 30 5 002,Katunje,Katunje,Dhading,Katunje,7.801172786288792
+524 2 05 30 5 022,524 2 05 30 5 036,Kebalpur,Kewalpur,Dhading,Kewalpur,7.435860633850098
+524 2 05 30 5 023,524 2 05 30 5 032,Khalte,Khalte,Dhading,Khalte,7.37591233253479
+524 2 05 30 5 024,524 2 05 30 5 022,Khari,Khari,Dhading,Khari,7.662612020969391
+524 2 05 30 5 025,524 2 05 30 5 044,Kiranchok,Kiranchok,Dhading,Kiranchok,7.463580301829746
+524 2 05 30 5 026,524 2 05 30 5 033,Kumpur,Kumpur,Dhading,Kumpur,7.353729204698042
+524 2 05 30 5 027,524 2 05 30 5 017,Lapa,Lapa,Dhading,Lapa,8.013745608153167
+524 2 05 30 5 028,524 2 05 30 5 040,Mahadevsthan,Mahadevsthan,Dhading,Mahadevsthan,7.489041888195535
+524 2 05 30 5 029,524 2 05 30 5 024,Maidi,Maidi,Dhading,Maidi,7.493420498711722
+524 2 05 30 5 030,524 2 05 30 5 003,Marpak,Marpak,Dhading,Marpak,8.066586136817932
+524 2 05 30 5 031,524 2 05 30 5 012,Mulpani,Mulpani,Dhading,Mulpani,8.299127260843912
+524 2 05 30 5 033,524 2 05 30 5 034,Nalang,Nalang,Dhading,Nalang,7.367781305313111
+524 2 05 30 5 034,524 2 05 30 5 049,Naubise,Naubise,Dhading,Naubise,7.206184577941895
+524 2 05 30 3 035,524 2 05 30 5 025,Muralibhanjyang,MuraliBhanjyang,Dhading,Nilkantha N.P.,7.438684875900681
+524 2 05 30 3 035,524 2 05 30 5 026,Nilkanth,Nilkantha,Dhading,Nilkantha N.P.,7.438684875900681
+524 2 05 30 3 035,524 2 05 30 5 027,Sangkos,Sangkosh,Dhading,Nilkantha N.P.,7.438684875900681
+524 2 05 30 3 035,524 2 05 30 5 035,Sunaulabajar,SunaulaBazar,Dhading,Nilkantha N.P.,7.438684875900681
+524 2 05 30 5 036,524 2 05 30 5 013,Phulkharka,Phulkhark,Dhading,Phulkhark,8.378482580184937
+524 2 05 30 5 037,524 2 05 30 5 045,Pida,Pida,Dhading,Pida,7.460050964355469
+524 2 05 30 5 038,524 2 05 30 5 018,Rigaun,ReeGaun,Dhading,ReeGaun,8.231530694400563
+524 2 05 30 5 039,524 2 05 30 5 028,Salang,Salang,Dhading,Salang,7.436599474686843
+524 2 05 30 5 040,524 2 05 30 5 014,Salyankot,Salyankot,Dhading,Salyankot,8.124906539916992
+524 2 05 30 5 041,524 2 05 30 5 008,Salyan Tar,Salyantar,Dhading,Salyantar,8.099066543579102
+524 2 05 30 5 043,524 2 05 30 5 004,Satyadevi,Satyadevi,Dhading,Satyadevi,8.005419526781354
+524 2 05 30 5 044,524 2 05 30 5 019,Semdhung,Semjong,Dhading,Semjong,7.860124640994602
+524 2 05 30 5 045,524 2 05 30 5 005,Sertung,Sertung,Dhading,Sertung,7.9419912293899895
+524 2 05 30 5 047,524 2 05 30 5 046,Tasarpu,Tasarpu,Dhading,Tasarpu,7.348534464836121
+524 2 05 30 5 048,524 2 05 30 5 050,Thakre,Thakre,Dhading,Thakre,7.3312530517578125
+524 2 05 30 5 049,524 2 05 30 5 020,Tipling,Tipling,Dhading,Tipling,7.898296519688198
+524 2 05 30 5 050,524 2 05 30 5 015,Tripura,Tripureswor,Dhading,Tripureswor,8.074179093043009
+524 2 04 22 5 001,524 2 04 22 5 029,Alambu,Alampu,Dolakha,Alampu,7.783767505125566
+524 2 04 22 5 002,524 2 04 22 5 034,Babare,Babare,Dolakha,Babare,7.747180652618408
+524 2 04 22 5 003,524 2 04 22 5 024,Bhedpu,Bhedapu,Dolakha,Bhedapu,7.71198829015096
+524 2 04 22 3 004,524 2 04 22 3 001,Bhimeswor Municipality,Bhimeswor N.P.,Dolakha,Bhimeswor N.P.,7.807386445999145
+524 2 04 22 5 005,524 2 04 22 5 001,Bhirkot,Bhirkot,Dolakha,Bhirkot,7.691195011138916
+524 2 04 22 5 006,524 2 04 22 5 047,Bhusaphedi,Bhusaphedi,Dolakha,Bhusaphedi,7.933947987026638
+524 2 04 22 5 007,524 2 04 22 5 039,Bigu,Bigu,Dolakha,Bigu,7.797528193547175
+524 2 04 22 5 008,524 2 04 22 5 028,Boch,Bocha,Dolakha,Bocha,7.782783699035645
+524 2 04 22 5 009,524 2 04 22 5 051,Bulung,Bulung,Dolakha,Bulung,7.739951515197754
+524 2 04 22 5 010,524 2 04 22 5 008,Changkhu,Chankhu,Dolakha,Chankhu,7.633882462978363
+524 2 04 22 5 011,524 2 04 22 5 031,Chhetrapa,Chhetrapa,Dolakha,Chhetrapa,7.7136266231536865
+524 2 04 22 5 012,524 2 04 22 5 040,Chilangkha,Chilankha,Dolakha,Chilankha,7.760036428769429
+524 2 04 22 5 013,524 2 04 22 5 014,Chyama,Chyama,Dolakha,Chyama,7.616263548533122
+524 2 04 22 5 014,524 2 04 22 5 025,Dandakharka,Dandakharka,Dolakha,Dandakharka,7.730939229329427
+524 2 04 22 5 015,524 2 04 22 5 044,Dodhapokhari,Dudhpokhari,Dolakha,Dudhpokhari,7.921650682176862
+524 2 04 22 5 016,524 2 04 22 5 048,Phasku,Fasku,Dolakha,Fasku,7.8907487733023505
+524 2 04 22 5 017,524 2 04 22 5 002,Gairimudi,Gairimudi,Dolakha,Gairimudi,7.659285008907318
+524 2 04 22 5 018,524 2 04 22 5 021,Gaurishankar,GauriSankar,Dolakha,GauriSankar,7.3145860698488026
+524 2 04 22 5 019,524 2 04 22 5 026,Ghyangsukathokar,GhangSukathokar,Dolakha,GhangSukathokar,7.80086612701416
+524 2 04 22 5 020,524 2 04 22 5 015,Hawa,Hawa,Dolakha,Hawa,7.560561736424764
+524 2 04 22 5 021,524 2 04 22 5 016,Japhe,Japhe,Dolakha,Japhe,7.550985972086589
+524 2 04 22 5 022,524 2 04 22 5 017,Jhule,Jhule,Dolakha,Jhule,7.547299861907959
+524 2 04 22 5 023,524 2 04 22 5 009,Jhyanku,Jhyaku,Dolakha,Jhyaku,7.728381838117327
+524 2 04 22 3 024,524 2 04 22 5 003,Jiri,Jiri,Dolakha,Jiri N.P.,8.031964942387171
+524 2 04 22 3 024,524 2 04 22 5 007,Thulo Pataal,Thulopatal,Dolakha,Jiri N.P.,8.031964942387171
+524 2 04 22 3 024,524 2 04 22 5 032,Mali,Mali,Dolakha,Jiri N.P.,8.031964942387171
+524 2 04 22 5 025,524 2 04 22 5 010,Jungu,Jugu,Dolakha,Jugu,7.75863733291626
+524 2 04 22 5 026,524 2 04 22 5 011,Kabre,Kabhre,Dolakha,Kabhre,7.751779953638713
+524 2 04 22 5 027,524 2 04 22 5 041,Kalinchok,Kalingchok,Dolakha,Kalingchok,7.782880425453186
+524 2 04 22 5 028,524 2 04 22 5 045,Katakuti,Katakuti,Dolakha,Katakuti,8.018573079790388
+524 2 04 22 5 029,524 2 04 22 5 022,Khare,Khare,Dolakha,Khare,7.550406360626221
+524 2 04 22 5 030,524 2 04 22 5 042,Khopachagu,Khopachagu,Dolakha,Khopachagu,7.855331301689148
+524 2 04 22 5 031,524 2 04 22 5 043,Laduk,Laduk,Dolakha,Laduk,7.719943250928607
+524 2 04 22 5 032,524 2 04 22 5 030,Lakuridanda,LakuriDada,Dolakha,LakuriDada,7.8537880182266235
+524 2 04 22 5 033,524 2 04 22 5 027,Lamabagar,Lamabagar,Dolakha,Lamabagar,7.6770120691370085
+524 2 04 22 5 034,524 2 04 22 5 035,Lamidanda,Lamidada,Dolakha,Lamidada,7.70827043056488
+524 2 04 22 5 035,524 2 04 22 5 036,Lapilang,Lapilang,Dolakha,Lapilang,7.736986453716572
+524 2 04 22 5 036,524 2 04 22 5 046,Magapauwa,Magapauwa,Dolakha,Magapauwa,8.04609219233195
+524 2 04 22 5 038,524 2 04 22 5 013,Malu,Malu,Dolakha,Malu,7.536261320114136
+524 2 04 22 5 039,524 2 04 22 5 023,Marbu,Marbu,Dolakha,Marbu,7.451055394278632
+524 2 04 22 5 040,524 2 04 22 5 019,Melung,Melung,Dolakha,Melung,7.662349700927734
+524 2 04 22 5 041,524 2 04 22 5 004,Mirge,Mirge,Dolakha,Mirge,7.707884947458903
+524 2 04 22 5 042,524 2 04 22 5 005,Namdru,Namdu,Dolakha,Namdu,7.786226654052735
+524 2 04 22 5 043,524 2 04 22 5 049,Worang,Orang,Dolakha,Orang,7.73414667447408
+524 2 04 22 5 044,524 2 04 22 5 020,Pawati,Pawati,Dolakha,Pawati,7.7109254995981855
+524 2 04 22 5 045,524 2 04 22 5 018,Shahare,Sahare,Dolakha,Sahare,7.514026165008545
+524 2 04 22 5 046,524 2 04 22 5 050,Sailungeshwar,Sailungeswor,Dolakha,Sailungeswor,7.852016653333392
+524 2 04 22 5 048,524 2 04 22 5 037,Sundrawati,Sundrawati,Dolakha,Sundrawati,7.692748069763184
+524 2 04 22 5 047,524 2 04 22 5 038,Sunkhani,Sunakhani,Dolakha,Sunkhani,7.719366192817688
+524 2 04 22 5 049,524 2 04 22 5 012,Suri,Suri,Dolakha,Suri,7.675064891576767
+524 2 04 22 5 050,524 2 04 22 5 033,Suspa Kshyamawati,SusmaChhemawati,Dolakha,SusmaChhemawati,7.7572649121284485
+524 2 04 22 5 051,524 2 04 22 5 006,Syama,Syama,Dolakha,Syama,7.598028659820557
+524 3 07 36 5 002,524 3 07 36 5 060,Aaruaarbad,AaruArbang,Gorkha,AaruArbang,8.166394710540771
+524 3 07 36 5 003,524 3 07 36 5 052,Aruchanaute,AaruChanuate,Gorkha,AaruChanuate,8.19735844930013
+524 3 07 36 5 004,524 3 07 36 5 053,Arupokhari,Aarupokhari,Gorkha,Aarupokhari,8.130882210201687
+524 3 07 36 5 005,524 3 07 36 5 003,Asrang,Asrang,Gorkha,Asrang,7.799521287282308
+524 3 07 36 5 006,524 3 07 36 5 054,Baguwa,Baguwa,Gorkha,Baguwa,7.946648120880127
+524 3 07 36 5 007,524 3 07 36 5 010,Bakrang,Bakrang,Gorkha,Bakrang,7.4996143447028265
+524 3 07 36 5 008,524 3 07 36 5 025,Virkot,Bhirkot,Gorkha,Bhirkot,7.569855117797852
+524 3 07 36 5 009,524 3 07 36 5 017,Mumlichok,Bhumlichok,Gorkha,Bhumlichok,7.5176065762837725
+524 3 07 36 5 010,524 3 07 36 5 037,Bihi,Bihi,Gorkha,Bihi,7.811003959178924
+524 3 07 36 5 011,524 3 07 36 5 004,Borlang,Borlang,Gorkha,Borlang,7.836253643035889
+524 3 07 36 5 012,524 3 07 36 5 005,Bungkot,Bunkot,Gorkha,Bunkot,7.752082288265228
+524 3 07 36 5 013,524 3 07 36 5 038,Chhekampar,Chhaikampar,Gorkha,Chhaikampar,7.571980828436736
+524 3 07 36 5 014,524 3 07 36 5 026,Chhoprak,Chhoprak,Gorkha,Chhoprak,7.640528082847595
+524 3 07 36 5 015,524 3 07 36 5 039,Chunchet,Chumchet,Gorkha,Chumchet,7.759460080753673
+524 3 07 36 5 017,524 3 07 36 5 006,Darbung,Darbhung,Gorkha,Darbhung,7.53294712305069
+524 3 07 36 5 018,524 3 07 36 5 033,Deurali,Deurali,Gorkha,Deurali,7.516664548353716
+524 3 07 36 5 019,524 3 07 36 5 055,Dhawa,Dhawa,Gorkha,Dhawa,8.002035975456238
+524 3 07 36 5 020,524 3 07 36 5 034,Dhuwakot,Dhuwakot,Gorkha,Dhuwakot,7.531334263937814
+524 3 07 36 5 022,524 3 07 36 5 008,Phujel,Fujel,Gorkha,Fujel,7.6340711911519366
+524 3 07 36 5 024,524 3 07 36 5 028,Gangkhu,Gakhu,Gorkha,Gakhu,7.698629856109619
+524 3 07 36 5 025,524 3 07 36 5 013,Ghairung,Ghairung,Gorkha,Ghairung,7.550298145839146
+524 3 07 36 5 026,524 3 07 36 5 066,Ghyachok,Ghyachok,Gorkha,Ghyachok,8.222772002220154
+524 3 07 36 5 027,524 3 07 36 5 012,Ghyalchok,Ghyalchok,Gorkha,Ghyalchok,7.472914171218872
+524 3 07 36 3 050,524 3 07 36 5 001,Nataeshwar,Nareshwor,Gorkha,Gorakha N.P.,7.618392319514833
+524 3 07 36 3 050,524 3 07 36 5 002,Phinam,Finam,Gorkha,Gorakha N.P.,7.618392319514833
+524 3 07 36 3 050,524 3 07 36 3 001,Prithbinarayan Municipality,Prithbinarayan N.P.,Gorkha,Gorakha N.P.,7.618392319514833
+524 3 07 36 5 028,524 3 07 36 5 044,Gumda,Gumda,Gorkha,Gumda,8.384715931756157
+524 3 07 36 5 029,524 3 07 36 5 019,Hansapur,Hanspur,Gorkha,Hansapur,8.041479428609213
+524 3 07 36 5 030,524 3 07 36 5 020,Harmi,Harmhi,Gorkha,Harmhi,7.797560453414917
+524 3 07 36 5 031,524 3 07 36 5 021,Jaubari,Jaubari,Gorkha,Jaubari,7.901391267776489
+524 3 07 36 5 032,524 3 07 36 5 045,Kashigaun,Kashigaun,Gorkha,Kashigaun,8.23564155285175
+524 3 07 36 5 033,524 3 07 36 5 022,Kerabari,Kerabari,Gorkha,Kerabari,7.949324035644532
+524 3 07 36 5 034,524 3 07 36 5 046,Keroja,Kerauja,Gorkha,Kerauja,7.957450267596123
+524 3 07 36 5 035,524 3 07 36 5 023,Kharibot,Kharibot,Gorkha,Kharibot,8.12745225429535
+524 3 07 36 5 036,524 3 07 36 5 030,Khoplang,Khoplang,Gorkha,Khoplang,7.6193976402282715
+524 3 07 36 5 037,524 3 07 36 5 047,Laprak,Laprak,Gorkha,Laprak,8.29755953738564
+524 3 07 36 5 038,524 3 07 36 5 048,Lapu,Lapu,Gorkha,Lapu,8.393494606018066
+524 3 07 36 5 039,524 3 07 36 5 040,Lho,Lho,Gorkha,Lho,7.762601109913417
+524 3 07 36 5 040,524 3 07 36 5 014,Makaising,Makaising,Gorkha,Makaising,7.479439735412598
+524 3 07 36 5 041,524 3 07 36 5 015,Manakamana,Manakamana,Gorkha,Manakamana,7.502021659504283
+524 3 07 36 5 042,524 3 07 36 5 049,Manbu,Manbu,Gorkha,Manbu,8.288518076357635
+524 3 07 36 5 043,524 3 07 36 5 057,Masel,Masel,Gorkha,Masel,7.9905335903167725
+524 3 07 36 5 044,524 3 07 36 5 036,Muchchok,Muchhok,Gorkha,Muchhok,8.065893990652901
+524 3 07 36 5 045,524 3 07 36 5 007,Namjung,Namjung,Gorkha,Namjung,7.630442714691162
+524 3 07 36 3 047,524 3 07 36 5 018,Amppipal,Aanppipal,Gorkha,Palumtar N.P.,7.6422008938259545
+524 3 07 36 3 047,524 3 07 36 5 027,Chyangling,Chyngli,Gorkha,Palumtar N.P.,7.6422008938259545
+524 3 07 36 3 047,524 3 07 36 5 029,Gaikhur,Gaikhur,Gorkha,Palumtar N.P.,7.6422008938259545
+524 3 07 36 3 047,524 3 07 36 5 031,Palungtar,Palumtar,Gorkha,Palumtar N.P.,7.6422008938259545
+524 3 07 36 5 048,524 3 07 36 5 056,Panchkhuwa Deurali,Panchkhuwadeurali,Gorkha,Panchkhuwadeurali,8.15716520945231
+524 3 07 36 5 049,524 3 07 36 5 058,Pandrung,Pandrung,Gorkha,Pandrung,8.002317070960999
+524 3 07 36 5 051,524 3 07 36 5 041,Prok,Prok,Gorkha,Prok,7.817301856146918
+524 3 07 36 5 052,524 3 07 36 5 042,Samagaun,Samagaun,Gorkha,Samagaun,7.488213833895597
+524 3 07 36 5 053,524 3 07 36 5 061,Sairpani,Saurpani,Gorkha,Saurpani,8.242454290390015
+524 3 07 36 5 054,524 3 07 36 5 032,Shrinathkot,Shreenathkot,Gorkha,Shreenathkot,7.789249420166016
+524 3 07 36 5 055,524 3 07 36 5 035,Simjung,Simjung,Gorkha,Simjung,8.191282749176025
+524 3 07 36 5 056,524 3 07 36 5 043,Sirdibas,Sirdibas,Gorkha,Sirdibas,7.933218192128302
+524 3 07 36 5 057,524 3 07 36 5 062,Swara,Swara,Gorkha,Swara,8.261969447135925
+524 3 07 36 5 058,524 3 07 36 5 016,Taklung,Taklung,Gorkha,Taklung,7.509391678704156
+524 3 07 36 5 059,524 3 07 36 5 063,Tarkukot,Takukot,Gorkha,Takukot,7.979287266731262
+524 3 07 36 5 060,524 3 07 36 5 064,Takumaj Hlakuri,Takumajhalakuribot,Gorkha,Takumajhalakuribot,7.969172096252441
+524 3 07 36 5 061,524 3 07 36 5 059,Tandrang,Tandrang,Gorkha,Tandrang,8.12265682220459
+524 3 07 36 5 062,524 3 07 36 5 011,Tanglichok,Tanglichok,Gorkha,Tanglichok,7.545671383539836
+524 3 07 36 5 063,524 3 07 36 5 009,Taple,Taple,Gorkha,Taple,7.822240734100342
+524 3 07 36 5 064,524 3 07 36 5 024,Thalajung,Thalajung,Gorkha,Thalajung,7.7789572874705
+524 3 07 36 5 065,524 3 07 36 5 050,Thumo,Thumi,Gorkha,Thumi,8.315414905548096
+524 3 07 36 5 066,524 3 07 36 5 051,Uhiya,Uhya,Gorkha,Uhya,8.146465301513672
+524 3 07 36 5 067,524 3 07 36 5 065,Warpak,Warpak,Gorkha,Warpak,8.45823587690081
+524 2 05 24 5 002,524 2 05 24 5 051,Balthali,Baldthali,Kavrepalanchok,Baldthali,7.509211381276448
+524 2 05 24 5 003,524 2 05 24 5 021,Walting,Balting,Kavrepalanchok,Balting,7.755182456970215
+524 2 05 24 5 004,524 2 05 24 5 059,Baluwa Pati Naldhun,BaluwapatiDeupur,Kavrepalanchok,BaluwapatiDeupur,7.47516942024231
+524 2 05 24 5 005,524 2 05 24 5 026,Wanakhu,BanakhuChor,Kavrepalanchok,BanakhuChor,7.773405918708215
+524 2 05 24 3 006,524 2 05 24 3 003,Banepa Municipality,Banepa N.P.,Kavrepalanchok,Banepa N.P.,7.492968797683716
+524 2 05 24 5 007,524 2 05 24 5 086,Bekhsimle Ghartigaon,BekhsimleDhartigaun,Kavrepalanchok,BekhsimleDhartigaun,7.916454792022705
+524 2 05 24 5 008,524 2 05 24 5 025,Bhimkhori,Bhimkhori,Kavrepalanchok,Bhimkhori,7.777540961901347
+524 2 05 24 5 009,524 2 05 24 5 075,Bhumlutar,Bhumlutar,Kavrepalanchok,Bhumlutar,7.794516881306966
+524 2 05 24 5 010,524 2 05 24 5 003,Birtadeurali,Birtadeurali,Kavrepalanchok,Birtadeurali,7.769961833953857
+524 2 05 24 5 011,524 2 05 24 5 011,Boldephadiche,BoldeFediche,Kavrepalanchok,BoldeFediche,7.747118234634399
+524 2 05 24 5 012,524 2 05 24 5 027,Budhakhani,Budhakhani,Kavrepalanchok,Budhakhani,7.723073840141296
+524 2 05 24 5 013,524 2 05 24 5 047,Chalalganeshsthan,ChalalGaneshsthan,Kavrepalanchok,ChalalGaneshsthan,7.379056612650554
+524 2 05 24 5 014,524 2 05 24 5 068,Chandeni Mandan,ChandeniMandan,Kavrepalanchok,ChandeniMandan,7.912288347880046
+524 2 05 24 5 015,524 2 05 24 5 076,Chaubas,Choubas,Kavrepalanchok,Choubas,7.907122015953064
+524 2 05 24 5 016,524 2 05 24 5 052,Chyamrangbesi,Chyamrangbesi,Kavrepalanchok,Chyamrangbesi,7.380465083652073
+524 2 05 24 5 017,524 2 05 24 5 053,Chyasingkharka,ChyasingKharka,Kavrepalanchok,ChyasingKharka,7.410526275634766
+524 2 05 24 5 018,524 2 05 24 5 046,Dandagaun,Dandagaun,Kavrepalanchok,Dandagaun,7.5562803745269775
+524 2 05 24 3 019,524 2 05 24 5 016,Methinkot,Methinkot,Kavrepalanchok,Dapcha Kashikhand N.P.,7.654637564783511
+524 2 05 24 3 019,524 2 05 24 5 035,Dapcha Chatraebangha,DapchaChatraibhanjha,Kavrepalanchok,Dapcha Kashikhand N.P.,7.654637564783511
+524 2 05 24 3 019,524 2 05 24 5 036,Dapcha Khanalthok,Khanalthok,Kavrepalanchok,Dapcha Kashikhand N.P.,7.654637564783511
+524 2 05 24 3 019,524 2 05 24 5 037,Daraunepokhari,DaraunePokhari,Kavrepalanchok,Dapcha Kashikhand N.P.,7.654637564783511
+524 2 05 24 3 019,524 2 05 24 5 039,Mathurapati Phulbari,MathurapatiFulbari,Kavrepalanchok,Dapcha Kashikhand N.P.,7.654637564783511
+524 2 05 24 3 019,524 2 05 24 5 041,Purana Gaun Pokhari,PuranogaunDapcha,Kavrepalanchok,Dapcha Kashikhand N.P.,7.654637564783511
+524 2 05 24 5 022,524 2 05 24 5 069,Devitar,Devitar,Kavrepalanchok,Devitar,7.386829694112142
+524 2 05 24 3 023,524 2 05 24 3 001,Dhulikhel Municipality,Dhulikhel N.P.,Kavrepalanchok,Dhulikhel N.P.,7.486542284488678
+524 2 05 24 3 023,524 2 05 24 5 038,Kabhrenitya Chandeshwari,KavreNityaChandeswor,Kavrepalanchok,Dhulikhel N.P.,7.486542284488678
+524 2 05 24 5 024,524 2 05 24 5 054,Dhungkharka Bahrabisae,Dhunkharka,Kavrepalanchok,Dhunkharka,7.3227400302886965
+524 2 05 24 5 025,524 2 05 24 5 004,Ghusenisiwalaye,DhuseniSiwalaya,Kavrepalanchok,DhuseniSiwalaya,7.878244996070862
+524 2 05 24 5 026,524 2 05 24 5 078,Dolalghat,Dolalghat,Kavrepalanchok,Dolalghat,7.8113908767700195
+524 2 05 24 5 027,524 2 05 24 5 082,Phalete,FalateBhumlu,Kavrepalanchok,Falatebhumlu,7.787733316421509
+524 2 05 24 5 028,524 2 05 24 5 048,Phalametar,Falemetar,Kavrepalanchok,Falemetar,7.49187387738909
+524 2 05 24 5 029,524 2 05 24 5 002,Phoksingtar,Foksingtar,Kavrepalanchok,Foksingtar,7.6363657171076
+524 2 05 24 5 030,524 2 05 24 5 060,Gairi Bisauna Deupur,GairiBisounaDeupur,Kavrepalanchok,GairiBisounaDeupur,7.701464414596558
+524 2 05 24 5 031,524 2 05 24 5 028,Ghartichhap,Ghartichhap,Kavrepalanchok,Ghartichhap,7.666129165225559
+524 2 05 24 5 032,524 2 05 24 5 029,Gokule,Gokule,Kavrepalanchok,Gokule,7.605100482702255
+524 2 05 24 5 033,524 2 05 24 5 005,Gotpani,Gothpani,Kavrepalanchok,Gothpani,7.777284049987793
+524 2 05 24 5 035,524 2 05 24 5 070,Jaisithok Mandan,JaisithokMandan,Kavrepalanchok,JaisithokMandan,7.735187848409017
+524 2 05 24 5 036,524 2 05 24 5 071,Jyamdi Mandan,JyamdiMandan,Kavrepalanchok,JyamdiMandan,7.859487771987915
+524 2 05 24 5 037,524 2 05 24 5 063,Kapali Bhumaedanda,KalatiBhumidanda,Kavrepalanchok,KalatiBhumidanda,7.256282942635672
+524 2 05 24 5 038,524 2 05 24 5 013,Kanpur Kalapani,KanpurKalapani,Kavrepalanchok,KanpurKalapani,7.706470012664795
+524 2 05 24 5 039,524 2 05 24 5 006,Kattike Deurali,KartikeDeurali,Kavrepalanchok,KartikeDeurali,7.841456127166748
+524 2 05 24 5 040,524 2 05 24 5 014,Katunjebesi,KatunjeBesi,Kavrepalanchok,KatunjeBesi,7.647086143493652
+524 2 05 24 5 042,524 2 05 24 5 030,Khaharepangu,KhaharePangu,Kavrepalanchok,KhaharePangu,7.516085863113403
+524 2 05 24 5 044,524 2 05 24 5 081,Kharelthok,Kharelthok,Kavrepalanchok,Kharelthok,7.757228970527649
+524 2 05 24 5 045,524 2 05 24 5 022,Kharpachok,Kharpachok,Kavrepalanchok,Kharpachok,7.683982849121094
+524 2 05 24 5 046,524 2 05 24 5 074,Kolanti,KolatiBhumlu,Kavrepalanchok,KolatiBhumlu,7.7494401931762695
+524 2 05 24 5 047,524 2 05 24 5 080,Koshidekha,Koshidekha,Kavrepalanchok,Koshidekha,7.7783238887786865
+524 2 05 24 5 048,524 2 05 24 5 012,Kuruwas Chapakhori,KuruwasChapakhori,Kavrepalanchok,KuruwasChapakhori,7.762293815612793
+524 2 05 24 5 049,524 2 05 24 5 062,Kushadevi,Kushadevi,Kavrepalanchok,Kushadevi,7.2485426902771
+524 2 05 24 5 050,524 2 05 24 5 015,Mechchhe,Machchhegaun,Kavrepalanchok,Machchhegaun,7.806543469429016
+524 2 05 24 5 051,524 2 05 24 5 007,Madankundari,MadanKundari,Kavrepalanchok,MadanKundari,7.878987789154053
+524 2 05 24 5 052,524 2 05 24 5 072,Mahadevsthan Mandan,MahadevsthanMandan,Kavrepalanchok,MahadevsthanMandan,7.836037976401193
+524 2 05 24 5 053,524 2 05 24 5 031,Mahadevtar,Mahadevtar,Kavrepalanchok,Mahadevtar,7.632167148590088
+524 2 05 24 5 054,524 2 05 24 5 032,Bhugdeu Mahankalchaur,MahankalChaur,Kavrepalanchok,MahankalChaur,7.528619408607483
+524 2 05 24 5 055,524 2 05 24 5 065,Mahendrajyoti Bansdol,MahendraJyoti,Kavrepalanchok,MahendraJyoti,7.322452783584595
+524 2 05 24 5 056,524 2 05 24 5 008,Majhipheda,MajhiFeda,Kavrepalanchok,MajhiFeda,7.827101071675618
+524 2 05 24 5 057,524 2 05 24 5 023,Mangaltar,Mangaltar,Kavrepalanchok,Mangaltar,7.722322305043538
+524 2 05 24 5 060,524 2 05 24 5 045,Milche,Milche,Kavrepalanchok,Milche,7.455946981906891
+524 2 05 24 5 061,524 2 05 24 5 009,Nangregagarche,NagreGagarche,Kavrepalanchok,NagreGagarche,7.85362974802653
+524 2 05 24 5 062,524 2 05 24 5 055,Ugrachandinala,Nala(Ugrachandi),Kavrepalanchok,Nala(Ugrachandi),7.51327912012736
+524 2 05 24 5 063,524 2 05 24 5 056,Nasikasthan Sanga,NasikasthanSanga,Kavrepalanchok,NasikasthanSanga,7.394830385843913
+524 2 05 24 5 064,524 2 05 24 5 061,Naya Gaun Deupur,NayagaunDeupur,Kavrepalanchok,NayagaunDeupur,7.580741286277771
+524 2 05 24 3 065,524 2 05 24 3 002,Panauti Municipality,Panauti N.P.,Kavrepalanchok,Panauti N.P.,7.421282052993774
+524 2 05 24 3 066,524 2 05 24 5 067,Anekot,Anaikot,Kavrepalanchok,Panchkhal N.P.,7.681397438049316
+524 2 05 24 3 066,524 2 05 24 5 073,Panchkhal,Panchkhal,Kavrepalanchok,Panchkhal N.P.,7.681397438049316
+524 2 05 24 3 066,524 2 05 24 5 077,Baluwadeubhumi,DeuvumiBaluwa,Kavrepalanchok,Panchkhal N.P.,7.681397438049316
+524 2 05 24 3 066,524 2 05 24 5 079,Hoksebazar,HokseBazar,Kavrepalanchok,Panchkhal N.P.,7.681397438049316
+524 2 05 24 3 066,524 2 05 24 5 085,Sathigharbhagawati,SathigharBhagawati,Kavrepalanchok,Panchkhal N.P.,7.681397438049316
+524 2 05 24 5 067,524 2 05 24 5 040,Patlekhet,Patalekhet,Kavrepalanchok,Patalekhet,7.490168809890747
+524 2 05 24 5 068,524 2 05 24 5 042,Chauri Pokhari,PokhariChauri,Kavrepalanchok,PokhariChauri,7.880063772201538
+524 2 05 24 5 069,524 2 05 24 5 017,Pokhari Narayansthan,PokhariNarayansthan,Kavrepalanchok,PokhariNarayansthan,7.757400353749593
+524 2 05 24 5 071,524 2 05 24 5 066,Rabiopi,RaviOpi,Kavrepalanchok,RaviOpi,7.461240887641907
+524 2 05 24 5 072,524 2 05 24 5 064,Ryale Bihawar,RyaleBhir,Kavrepalanchok,RyaleBhir,7.172802984714508
+524 2 05 24 5 073,524 2 05 24 5 049,Saldhara,Saldhara,Kavrepalanchok,Saldhara,7.496957438332694
+524 2 05 24 5 074,524 2 05 24 5 083,Salle Blullu,SalleBhumlu,Kavrepalanchok,SalleBhumlu,7.814243316650391
+524 2 05 24 5 075,524 2 05 24 5 050,Salme Taldhunga,Salmechakala(Taldhunga),Kavrepalanchok,Salmechakala(Taldhu),7.533921718597412
+524 2 05 24 5 076,524 2 05 24 5 018,Sangkhupatichaur,SankhupatiChour,Kavrepalanchok,SankhupatiChour,7.560773531595866
+524 2 05 24 5 077,524 2 05 24 5 010,Sanuwangthali,Sanowangthali,Kavrepalanchok,Sanowangthali,7.988534132639567
+524 2 05 24 5 078,524 2 05 24 5 084,Saping,Saping,Kavrepalanchok,Saping,7.875108923230853
+524 2 05 24 5 079,524 2 05 24 5 043,Sharada (Batase),SaradaBatase,Kavrepalanchok,SaradaBatase,7.551883220672607
+524 2 05 24 5 080,524 2 05 24 5 019,Sarmathali,Saramthali,Kavrepalanchok,Saramthali,7.729174375534058
+524 2 05 24 5 081,524 2 05 24 5 001,Sarsyunkharka,Sarasyunkhark,Kavrepalanchok,Sarasyunkhark,7.753159809112549
+524 2 05 24 5 083,524 2 05 24 5 033,Shikhar Ambote,SikharAmbote,Kavrepalanchok,SikharAmbote,7.57612144947052
+524 2 05 24 5 084,524 2 05 24 5 044,Syampati Simalchaur,SimalchourSyampati,Kavrepalanchok,SimalchourSyampati,7.562764048576355
+524 2 05 24 5 085,524 2 05 24 5 087,Simthali,Simthali,Kavrepalanchok,Simthali,7.907252788543701
+524 2 05 24 5 086,524 2 05 24 5 024,Sipali Chilaune,SipaliChilaune,Kavrepalanchok,SipaliChilaune,7.748599582248264
+524 2 05 24 5 087,524 2 05 24 5 034,Sisakhani,Sisakhani,Kavrepalanchok,Sisakhani,7.714931964874268
+524 2 05 24 5 088,524 2 05 24 5 020,Thulo Parsel,ThuloParsel,Kavrepalanchok,ThuloParsel,7.763135671615601
+524 2 05 24 5 089,524 2 05 24 5 057,Tukuchanala,TukuchaNala,Kavrepalanchok,TukuchaNala,7.4790489196777346
+524 2 05 24 5 090,524 2 05 24 5 058,Ugratara Janagal,UgrataraJanagal,Kavrepalanchok,UgrataraJanagal,7.223410129547119
+524 2 06 31 5 001,524 2 06 31 5 032,Agra,Agara,Makwanpur,Agara,7.428837140401204
+524 2 06 31 5 002,524 2 06 31 5 004,Ambhanjyang,Ambhanjyang,Makwanpur,Ambhanjyang,7.310027480125427
+524 2 06 31 5 005,524 2 06 31 5 013,Beteni,Betini,Makwanpur,Betini,7.442121440714056
+524 2 06 31 5 006,524 2 06 31 5 027,Bhainse,Bhaise,Makwanpur,Bhaise,7.355305966876802
+524 2 06 31 5 007,524 2 06 31 5 024,Bhartapunyadevi,BhartaPundyadevi,Makwanpur,BhartaPundyadevi,7.5394236246744795
+524 2 06 31 5 008,524 2 06 31 5 038,Bhimphedi,Bhimfedi,Makwanpur,Bhimfedi,7.29712750116984
+524 2 06 31 5 009,524 2 06 31 5 015,Budhichaur,Budhichaur,Makwanpur,Budhichaur,7.3578840891520185
+524 2 06 31 5 010,524 2 06 31 5 036,Chitlang,Chitlang,Makwanpur,Chitlang,7.1453526496887205
+524 2 06 31 5 013,524 2 06 31 5 028,Dandakharka,Dandakharka,Makwanpur,Dandakharka,7.4984940615567295
+524 2 06 31 5 014,524 2 06 31 5 010,Dhiyal,Dhimal,Makwanpur,Dhimal,7.253419187333849
+524 2 06 31 5 015,524 2 06 31 5 040,Phakhel,Fakhel,Makwanpur,Fakhel,7.128711847158579
+524 2 06 31 5 016,524 2 06 31 5 012,Phaparbari,Faparbari,Makwanpur,Faparbari,7.500164052273365
+524 2 06 31 5 017,524 2 06 31 5 031,Gomane,Gogane,Makwanpur,Gogane,7.433655309677124
+524 2 06 31 5 018,524 2 06 31 5 017,Handikhola,Handikhola,Makwanpur,Handikhola,7.406457255868351
+524 2 06 31 2 020,524 2 06 31 5 016,Basamadi,Basamadi,Makwanpur,Hetauda U.M.N.P.,7.393926452506673
+524 2 06 31 2 020,524 2 06 31 5 005,Churemai,Churiyamai,Makwanpur,Hetauda U.M.N.P.,7.393926452506673
+524 2 06 31 2 020,524 2 06 31 5 009,Harnamadi,Hurnamadi,Makwanpur,Hetauda U.M.N.P.,7.393926452506673
+524 2 06 31 2 020,524 2 06 31 5 006,Hatiya,Hatiya,Makwanpur,Hetauda U.M.N.P.,7.393926452506673
+524 2 06 31 2 020,524 2 06 31 3 001,Hetauda Municipality,Hetauda N.P.,Makwanpur,Hetauda U.M.N.P.,7.393926452506673
+524 2 06 31 2 020,524 2 06 31 5 022,Padampokhari,PadamPokhari,Makwanpur,Hetauda U.M.N.P.,7.393926452506673
+524 2 06 31 5 022,524 2 06 31 5 043,Ipa Panchakanya,IpaPanchakanya,Makwanpur,IpaPanchakanya,7.316028197606404
+524 2 06 31 5 023,524 2 06 31 5 025,Kalikatar,Kalikatar,Makwanpur,Kalikatar,7.475325703620911
+524 2 06 31 5 024,524 2 06 31 5 020,Kangkada,Kankada,Makwanpur,Kankada,7.516620218753815
+524 2 06 31 5 025,524 2 06 31 5 023,Khairang,Khairang,Makwanpur,Khairang,7.511272144317627
+524 2 06 31 5 026,524 2 06 31 5 042,Kagate,Kogate,Makwanpur,Kogate,7.304666246686663
+524 2 06 31 5 027,524 2 06 31 5 037,Kulekhani,Kulekhani,Makwanpur,Kulekhani,7.237352927525838
+524 2 06 31 5 028,524 2 06 31 5 007,Makawanpur Gadhi,Makwanpurgadhi,Makwanpur,Makwanpurgadhi,7.353967261314392
+524 2 06 31 5 029,524 2 06 31 5 021,Manahari,Manahari,Makwanpur,Manahari,7.415358266522808
+524 2 06 31 5 030,524 2 06 31 5 002,Manthali,Manthali,Makwanpur,Manthali,7.408827577318464
+524 2 06 31 5 031,524 2 06 31 5 034,Markhu,Markhu,Makwanpur,Markhu,7.234065691630046
+524 2 06 31 5 032,524 2 06 31 5 026,Namtar,Namtar,Makwanpur,Namtar,7.40616749072897
+524 2 06 31 5 033,524 2 06 31 5 039,Nibuwatar,Nibuwatar,Makwanpur,Nibuwatar,7.3560135629442005
+524 2 06 31 9 000,524 2 06 31 9 001,Parsa Wildlife Reserve,Parsa Wildlife Reserve,Makwanpur,Parsa Wildlife Reserve,7.470967216151101
+524 2 06 31 5 036,524 2 06 31 5 011,Raigaun,Raigaun,Makwanpur,Raigaun,7.3949041241093685
+524 2 06 31 5 037,524 2 06 31 5 019,Raksirang,Raksirang,Makwanpur,Raksirang,7.482518482208252
+524 2 06 31 5 038,524 2 06 31 5 018,Sarikhetpalase,SarikhetPalase,Makwanpur,SarikhetPalase,7.429887437820435
+524 2 06 31 5 039,524 2 06 31 5 014,Shikharpur,Shikharpur,Makwanpur,Shikharpur,7.457553863525391
+524 2 06 31 5 040,524 2 06 31 5 008,Shripur Chhatiwan,ShreepurChhatiwan,Makwanpur,ShreepurChhatiwan,7.316592081537786
+524 2 06 31 5 041,524 2 06 31 5 041,Sisneri,SisneriMahadevsthan,Makwanpur,SisneriMahadevsthan,7.2540605664253235
+524 2 06 31 5 042,524 2 06 31 5 003,Sukaura,Sukaura,Makwanpur,Sukaura,7.3201141357421875
+524 2 06 31 3 003,524 2 06 31 5 035,Bajrabarahi,Bajrabarahi,Makwanpur,Thaha N.P.,7.368072970160123
+524 2 06 31 3 003,524 2 06 31 5 030,Daman,Daman,Makwanpur,Thaha N.P.,7.368072970160123
+524 2 06 31 3 003,524 2 06 31 5 029,Palung,Palung,Makwanpur,Thaha N.P.,7.368072970160123
+524 2 06 31 5 043,524 2 06 31 5 001,Thingan,Thingan,Makwanpur,Thingan,7.350938840345903
+524 2 06 31 5 044,524 2 06 31 5 033,Tistung,TistungDeurali,Makwanpur,TistungDeurali,7.3527233600616455
+524 2 05 28 5 001,524 2 05 28 5 036,Bageshwari,BagesworiChokade,Nuwakot,BagesworiChokade,7.732663989067078
+524 2 05 28 5 002,524 2 05 28 5 021,Balkumari,Balkumari,Nuwakot,Balkumari,8.088558117548624
+524 2 05 28 5 003,524 2 05 28 5 050,Barsunchet,Barsunchet,Nuwakot,Barsunchet,7.945324182510376
+524 2 05 28 5 004,524 2 05 28 5 008,Belkot,Belkot,Nuwakot,Belkot,7.447224795818329
+524 2 05 28 5 005,524 2 05 28 5 022,Beteni,Beteni,Nuwakot,Betini,8.251211166381836
+524 2 05 28 5 006,524 2 05 28 5 027,Bhadratar,Bhadratar,Nuwakot,Bhadratar,7.665775378545125
+524 2 05 28 5 007,524 2 05 28 5 056,Bhalche,Bhalche,Nuwakot,Bhalche,7.890745162963867
+524 2 05 28 3 008,524 2 05 28 3 001,Bidur Municipality,Bidur N.P.,Nuwakot,Bidur N.P.,7.785506820678711
+524 2 05 28 5 009,524 2 05 28 5 044,Budhasing,Budhasing,Nuwakot,Budhasing,7.492459615071614
+524 2 05 28 5 010,524 2 05 28 5 051,Bungtang,Bungtang,Nuwakot,Bungtang,7.844218413035075
+524 2 05 28 5 011,524 2 05 28 5 045,Charghare,Charghare,Nuwakot,Charghare,7.702452114650181
+524 2 05 28 5 012,524 2 05 28 5 010,Chaturale,Chaturale,Nuwakot,Chaturale,7.517819166183472
+524 2 05 28 5 013,524 2 05 28 5 028,Chaughoda,Chaughada,Nuwakot,Chaughada,7.7293925285339355
+524 2 05 28 5 014,524 2 05 28 5 001,Chauthe,Chauthe,Nuwakot,Chauthe,7.301356474558513
+524 2 05 28 5 015,524 2 05 28 5 015,Chhap,Chhap,Nuwakot,Chhap,7.615595436096191
+524 2 05 28 5 016,524 2 05 28 5 046,Dangsing,Dangsing,Nuwakot,Dangsing,7.5455325444539385
+524 2 05 28 5 017,524 2 05 28 5 052,Deurali,Deurali,Nuwakot,Deurali,7.83612585067749
+524 2 05 28 5 018,524 2 05 28 5 002,Duipipal,Duipipal,Nuwakot,Duipipal,7.466952732631138
+524 2 05 28 5 019,524 2 05 28 5 059,Phikuri,Fikuri,Nuwakot,Fikuri,7.836200555165608
+524 2 05 28 5 020,524 2 05 28 5 037,Ganeshsthan,Ganeshthan,Nuwakot,Ganeshthan,7.808397483825684
+524 2 05 28 5 021,524 2 05 28 5 023,Gaunkharka,Gaunkharka,Nuwakot,Gaunkharka,8.340456366539001
+524 2 05 28 5 022,524 2 05 28 5 038,Gerkhu,Gerkhu,Nuwakot,Gerkhu,7.7279815673828125
+524 2 05 28 5 023,524 2 05 28 5 030,Ghyangphedi,Ghyangphedi,Nuwakot,Ghyangphedi,8.136507711102885
+524 2 05 28 5 024,524 2 05 28 5 047,Gorsyang,Gorsyang,Nuwakot,Gorsyang,7.6361982226371765
+524 2 05 28 5 025,524 2 05 28 5 011,Jiling,Jiling,Nuwakot,Jiling,7.413281738758087
+524 2 05 28 5 026,524 2 05 28 5 029,Kabilas,Kabilas,Nuwakot,Kabilas,7.734753966331482
+524 2 05 28 5 027,524 2 05 28 5 003,Kakani,Kakani,Nuwakot,Kakani,7.398066711425781
+524 2 05 28 5 028,524 2 05 28 5 039,Kalika Halldae,Kalikahalde,Nuwakot,Kalikahalde,7.7824180126190186
+524 2 05 28 5 029,524 2 05 28 5 053,Kalyanpur,Kalyanpur,Nuwakot,Kalyanpur,7.780717313289642
+524 2 05 28 5 030,524 2 05 28 5 058,Kaule,Kaule,Nuwakot,Kaule,7.883072733879089
+524 2 05 28 5 031,524 2 05 28 5 048,Khadga Bhanjyang,KhadagBhanjyang,Nuwakot,KhadagBhanjyang,7.6005295515060425
+524 2 05 28 5 032,524 2 05 28 5 041,Kharanitar,Kharanitar,Nuwakot,Kharanitar,7.901246547698975
+524 2 05 28 5 033,524 2 05 28 5 040,Khanigaun,KholegaunKhanigaun,Nuwakot,KholegaunKhanigau,7.749896621704101
+524 2 05 28 5 034,524 2 05 28 5 054,Kintang,Kintang,Nuwakot,Kintang,7.965331758771624
+524 2 05 28 5 035,524 2 05 28 5 004,Kumari,Kumari,Nuwakot,Kumari,7.371246139208476
+524 2 05 28 5 036,524 2 05 28 5 042,Lachyang,Lachyang,Nuwakot,Lachyang,7.853671630223592
+524 2 05 28 5 037,524 2 05 28 5 017,Likhu,Likhu,Nuwakot,Likhu,7.781297206878662
+524 2 05 28 5 038,524 2 05 28 5 012,Madanpur,Madanpur,Nuwakot,Madanpur,7.538578727028587
+524 2 05 28 5 039,524 2 05 28 5 018,Mahakali,Mahakali,Nuwakot,Mahakali,7.768659432729085
+524 2 05 28 5 040,524 2 05 28 5 057,Karki Manakamana,Manakamana,Nuwakot,Manakamana,7.958224964141846
+524 2 05 28 5 041,524 2 05 28 5 043,Narjamandap,Narjamandap,Nuwakot,Narjamandap,7.882819747924804
+524 2 05 28 5 042,524 2 05 28 5 005,Okharpauwa,Okharpauwa,Nuwakot,Okharpauwa,7.277061065038045
+524 2 05 28 5 043,524 2 05 28 5 024,Panchakanya,Panchkanya,Nuwakot,Panchkanya,7.889464378356934
+524 2 05 28 5 044,524 2 05 28 5 031,Ralukadevi,Ralukadevi,Nuwakot,Ralukadevi,7.972393417358399
+524 2 05 28 5 045,524 2 05 28 5 020,Ratmate,Ratmate,Nuwakot,Ratmate,7.477237860361735
+524 2 05 28 5 046,524 2 05 28 5 025,Rautbesi,Rautbesi,Nuwakot,Rautbesi,8.24202791849772
+524 2 05 28 5 047,524 2 05 28 5 060,Salme,Salme,Nuwakot,Salme,7.942309114668104
+524 2 05 28 5 048,524 2 05 28 5 055,Samari,Samari,Nuwakot,Samari,7.78194842338562
+524 2 05 28 5 049,524 2 05 28 5 016,Samudradevi Kholegaun,Samundradevi,Nuwakot,Samundradevi,7.3845053513844805
+524 2 05 28 5 050,524 2 05 28 5 032,Samudratar,Samundratar,Nuwakot,Samundratar,8.064902305603027
+524 2 05 28 5 051,524 2 05 28 5 033,Shikharbesi,Shikharbesi,Nuwakot,Shikharbesi,8.103594038221571
+524 2 05 28 5 052,524 2 05 28 5 019,Sikre,Sikre,Nuwakot,Sikre,7.5390440940856935
+524 2 05 28 5 053,524 2 05 28 5 034,Sundaradevi,Sundaradevi,Nuwakot,Sundaradevi,8.006076494852701
+524 2 05 28 5 054,524 2 05 28 5 006,Sunkhani,Sunkhani,Nuwakot,Sunkhani,7.510143915812175
+524 2 05 28 5 055,524 2 05 28 5 013,Suryamati,Suryamati,Nuwakot,Suryamati,7.816659450531006
+524 2 05 28 5 056,524 2 05 28 5 009,Talakhu,Talakhu,Nuwakot,Talakhu,7.858136475086212
+524 2 05 28 5 057,524 2 05 28 5 049,Taruka,Taruka,Nuwakot,Taruka,7.412507629394531
+524 2 05 28 5 058,524 2 05 28 5 007,Thanapati,Thanapati,Nuwakot,Thanapati,7.3857327699661255
+524 2 05 28 5 059,524 2 05 28 5 014,Thansing,Thansing,Nuwakot,Thansing,7.616704668317523
+524 2 05 28 5 060,524 2 05 28 5 026,Thaprek,Thaprek,Nuwakot,Thaprek,7.865184116363525
+524 2 05 28 5 061,524 2 05 28 5 061,Tupche,Tupche,Nuwakot,Tupche,7.7894523938496905
+524 2 05 28 5 062,524 2 05 28 5 035,Urleni,Urleni,Nuwakot,Urleni,8.030032396316528
+524 1 03 12 5 002,524 1 03 13 5 029,Baksha,Baksa,Okhaldhunga,Baksa,6.339882055918376
+524 1 03 12 5 003,524 1 03 13 5 041,Balakhu,Balakhu,Okhaldhunga,Balakhu,6.817378481229146
+524 1 03 12 5 005,524 1 03 13 5 015,Barudeshwor,Baruneshwor,Okhaldhunga,Baruneshwor,6.707382542746408
+524 1 03 12 5 006,524 1 03 13 5 032,Betini,Betini,Okhaldhunga,Betini,6.547664960225423
+524 1 03 12 5 007,524 1 03 13 5 012,Bhadaure,Bhadaure,Okhaldhunga,Bhadaure,6.308757464090983
+524 1 03 12 5 008,524 1 03 13 5 023,Bhushanga,Bhussinga,Okhaldhunga,Bhussinga,7.244102954864502
+524 1 03 12 5 009,524 1 03 13 5 016,Bigutar,Bigutar,Okhaldhunga,Bigutar,6.607314968109131
+524 1 03 12 5 010,524 1 03 13 5 042,Bilandu,Bilandu,Okhaldhunga,Bilandu,6.946933950696673
+524 1 03 12 5 011,524 1 03 13 5 040,Chyanam,Chyanam,Okhaldhunga,Chyanam,6.6326823234558105
+524 1 03 12 5 012,524 1 03 13 5 006,Diyale,Diyale,Okhaldhunga,Diyale,6.172031044960022
+524 1 03 12 5 013,524 1 03 13 5 045,Phedighooth,Fediguth,Okhaldhunga,Fediguth,6.826071103413899
+524 1 03 12 5 014,524 1 03 13 5 046,Phulbari,Fulbari,Okhaldhunga,Fulbari,6.961289269583566
+524 1 03 12 5 015,524 1 03 13 5 047,Gamnangtar,Gamnangtar,Okhaldhunga,Gamnangtar,7.168621857961019
+524 1 03 12 5 016,524 1 03 13 5 020,Harkapur,Harkapur,Okhaldhunga,Harkapur,6.778167656489781
+524 1 03 12 5 017,524 1 03 13 5 017,Jantarkhani,Jantarkhani,Okhaldhunga,Jantarkhani,6.7322985475713555
+524 1 03 12 5 019,524 1 03 13 5 043,Kalikadevi,Kalikadevi,Okhaldhunga,Kalikadevi,6.967269039154052
+524 1 03 12 5 020,524 1 03 13 5 055,Khijikaanthi,Kaptigaun(Khigikati),Okhaldhunga,Kaptigaun(Khigikati),7.3172657012939455
+524 1 03 12 5 021,524 1 03 13 5 038,Katunje,Katunje,Okhaldhunga,Katunje,6.844119834899902
+524 1 03 12 5 022,524 1 03 13 5 056,Ketuke,Ketuke,Okhaldhunga,Ketuke,6.452912509441376
+524 1 03 12 5 023,524 1 03 13 5 025,Khijichandeshwori,KhijiChandeshwori.,Okhaldhunga,KhijiChandeshwori,7.31374340057373
+524 1 03 12 5 024,524 1 03 13 5 024,Khijiflate,Khijifalate,Okhaldhunga,Khijifalate,7.12119828737699
+524 1 03 12 5 025,524 1 03 13 5 007,Kuebhire,Kuibhir,Okhaldhunga,Kuibhir,6.200797080993652
+524 1 03 12 5 026,524 1 03 13 5 018,Kuntadevi,Kuntadevi,Okhaldhunga,Kuntadevi,6.696449279785156
+524 1 03 12 5 027,524 1 03 13 5 033,Madhabpur,Madhavpur,Okhaldhunga,Madhavpur,6.5615159670511884
+524 1 03 12 5 028,524 1 03 13 5 008,Mamkha,Mamkha,Okhaldhunga,Mamkha,6.4762638211250305
+524 1 03 12 5 029,524 1 03 13 5 034,Manebhanjyang,Manebhanjyang,Okhaldhunga,Manebhanjyang,6.442758957544963
+524 1 03 12 5 030,524 1 03 13 5 030,Moli,Moli,Okhaldhunga,Moli,6.3666947682698565
+524 1 03 12 5 031,524 1 03 13 5 039,Mulkharka,Mulkharka,Okhaldhunga,Mulkharka,6.740178194912997
+524 1 03 12 5 032,524 1 03 13 5 048,Narmadeshwor,Narmedeshwor,Okhaldhunga,Narmedeshwor,7.063256899515788
+524 1 03 12 5 034,524 1 03 13 5 044,Palapu,Palapu,Okhaldhunga,Palapu,6.961055556933085
+524 1 03 12 5 035,524 1 03 13 5 028,Patale,Palte,Okhaldhunga,Palte,6.903278953150699
+524 1 03 12 5 036,524 1 03 13 5 053,Pokali,Pokali,Okhaldhunga,Pokali,7.191035834225741
+524 1 03 12 5 037,524 1 03 13 5 009,Pokhare,Pokhare,Okhaldhunga,Pokhare,6.194173455238342
+524 1 03 12 5 038,524 1 03 13 5 021,Prapcha,Prapcha,Okhaldhunga,Prapcha,6.933502674102783
+524 1 03 12 5 039,524 1 03 13 5 019,Ragadeep,Ragadeep,Okhaldhunga,Ragadeep,6.675941228866577
+524 1 03 12 5 040,524 1 03 13 5 026,Ragani,Ragani,Okhaldhunga,Ragani,7.257452646891276
+524 1 03 12 5 041,524 1 03 13 5 049,Ranibaan,Raniban,Okhaldhunga,Raniban,7.010102430979411
+524 1 03 12 5 042,524 1 03 13 5 010,Ratmate,Ratmata,Okhaldhunga,Ratmata,6.364176273345947
+524 1 03 12 5 043,524 1 03 13 5 027,Rawadol,Rawadolu,Okhaldhunga,Rawadolu,7.307862377166748
+524 1 03 12 5 046,524 1 03 13 5 011,Sherma,Serna,Okhaldhunga,Serna,6.351733016967773
+524 1 03 12 5 047,524 1 03 13 5 022,Shrichaor,Shreechaur,Okhaldhunga,Shreechaur,6.96342590876988
+524 1 03 12 3 001,524 1 03 13 5 001,Barnalu,Barnalu,Okhaldhunga,Siddhicharan N.P.,6.530462532043457
+524 1 03 12 3 001,524 1 03 13 5 002,Jyamere,Jyamire,Okhaldhunga,Siddhicharan N.P.,6.530462532043457
+524 1 03 12 3 001,524 1 03 13 5 003,Okhaldhunga,Okhaldhunga,Okhaldhunga,Siddhicharan N.P.,6.530462532043457
+524 1 03 12 3 001,524 1 03 13 5 004,Rumjatar,Rumjatar,Okhaldhunga,Siddhicharan N.P.,6.530462532043457
+524 1 03 12 3 001,524 1 03 13 5 005,Sallere,Salleri,Okhaldhunga,Siddhicharan N.P.,6.530462532043457
+524 1 03 12 3 001,524 1 03 13 5 054,Narayansthan,Andheri(Narayansthan),Okhaldhunga,Siddhicharan N.P.,6.530462532043457
+524 1 03 12 5 048,524 1 03 13 5 050,Singhadevi,Singhadevi,Okhaldhunga,Singhadevi,7.080295165379842
+524 1 03 12 5 049,524 1 03 13 5 037,Shishneri,Sisneri,Okhaldhunga,SisneriMahadevsthan,6.703553358713786
+524 1 03 12 5 050,524 1 03 13 5 013,Tuluwa,Taluwa,Okhaldhunga,Taluwa,6.237397114435832
+524 1 03 12 5 051,524 1 03 13 5 051,Tarkerabari,Tarkerabari,Okhaldhunga,Tarkerabari,7.175750732421875
+524 1 03 12 5 052,524 1 03 13 5 035,Thakle,Thakle,Okhaldhunga,Thakle,6.600699615478516
+524 1 03 12 5 053,524 1 03 13 5 036,Tokshel,Thoksel,Okhaldhunga,Thoksel,6.6065554022789
+524 1 03 12 5 054,524 1 03 13 5 014,Thulachaap,Thulachhap,Okhaldhunga,Thulachhap,6.302200476328532
+524 1 03 12 5 055,524 1 03 13 5 031,Ubu,Ubu,Okhaldhunga,Ubu,6.446058432261149
+524 1 03 12 5 056,524 1 03 13 5 052,Yesham,Yasam,Okhaldhunga,Yasam,7.079687476158142
+524 2 04 21 5 001,524 2 04 21 5 018,Bamti,BamtiBhandar,Ramechhap,BamtiBhandar,7.638679716322157
+524 2 04 21 5 002,524 2 04 21 5 024,Betali,Betali,Ramechhap,Betali,7.559097194671631
+524 2 04 21 5 003,524 2 04 21 5 032,Bethan,Bethan,Ramechhap,Bethan,7.827270984649658
+524 2 04 21 5 004,524 2 04 21 5 044,Gagal Bhadaure,Bhadaure,Ramechhap,Bhadaure,7.690590143203735
+524 2 04 21 5 006,524 2 04 21 5 043,Bhirpani,Bhirpani,Ramechhap,Bhirpani,7.754325199127197
+524 2 04 21 5 007,524 2 04 21 5 011,Bhuji,Bhujee,Ramechhap,Bhujee,7.524489198412214
+524 2 04 21 5 008,524 2 04 21 5 012,Bijulikot,Bijulikot,Ramechhap,Bijulikot,7.2624598609076605
+524 2 04 21 5 009,524 2 04 21 5 046,Chanakhu,Chanakhu,Ramechhap,Chanakhu,7.569148540496826
+524 2 04 21 5 011,524 2 04 21 5 019,Chuchure,Chuchure,Ramechhap,Chuchure,7.5431885321935015
+524 2 04 21 5 012,524 2 04 21 5 050,Dadhuwa,Dadhuwa,Ramechhap,Dadhuwa,7.804205894470215
+524 2 04 21 5 013,524 2 04 21 5 006,Deurali,Deurali,Ramechhap,Deurali,7.1226582527160645
+524 2 04 21 5 014,524 2 04 21 5 033,Dimipokhari,Dimipokhari,Ramechhap,Dimipokhari,7.910921653111775
+524 2 04 21 5 015,524 2 04 21 5 051,Doramba,Doramba,Ramechhap,Doramba,7.848542054494222
+524 2 04 21 5 016,524 2 04 21 5 013,Duragaun,Duragau,Ramechhap,Duragau,7.500539866360751
+524 2 04 21 5 017,524 2 04 21 5 028,Tharpu,Farpu,Ramechhap,Farpu,7.447274923324585
+524 2 04 21 5 018,524 2 04 21 5 052,Gelu,Gelu,Ramechhap,Gelu,7.563582579294841
+524 2 04 21 5 019,524 2 04 21 5 053,Goshwara,Goswara,Ramechhap,Goswara,7.889145056406657
+524 2 04 21 5 020,524 2 04 21 5 014,Gothgaun,Gothgau,Ramechhap,Gothgau,7.115980943044026
+524 2 04 21 5 021,524 2 04 21 5 020,Gumdel,Gumdel,Ramechhap,Gumdel,7.1400463095417726
+524 2 04 21 5 022,524 2 04 21 5 034,Gunsi,GunsiBhadaure,Ramechhap,GunsiBhadaure,7.812038580576579
+524 2 04 21 5 023,524 2 04 21 5 015,Gupteshwar,Guptesor,Ramechhap,Guptesor,7.887276113033295
+524 2 04 21 5 024,524 2 04 21 5 035,Hiledevi,Hiledevi,Ramechhap,Hiledevi,7.850931962331136
+524 2 04 21 5 025,524 2 04 21 5 007,Himganga,Himganga,Ramechhap,Himganga,7.0656538009643555
+524 2 04 21 5 027,524 2 04 21 5 038,Khandadevi,Khadadevi,Ramechhap,Khadadevi,7.7897413571675616
+524 2 04 21 5 028,524 2 04 21 5 036,Khaniyapani,Khaniyapani,Ramechhap,Khaniyapani,7.819042444229126
+524 2 04 21 5 029,524 2 04 21 5 025,Khimti,Khimti,Ramechhap,Khimti,7.408204010554722
+524 2 04 21 5 030,524 2 04 21 5 021,Kunbhukasthali,Kubukasthali,Ramechhap,Kubukasthali,7.595051288604736
+524 2 04 21 5 031,524 2 04 21 5 037,Lakhanpur,Lakhanpur,Ramechhap,Lakhanpur,7.857619020673964
+524 2 04 21 5 032,524 2 04 21 5 040,Majhuwa,Majuwa,Ramechhap,Majuwa,7.810101509094238
+524 2 04 21 5 033,524 2 04 21 5 039,Makadhum,Makadum,Ramechhap,Makadum,7.723318815231323
+524 2 04 21 3 035,524 2 04 21 5 031,Bhaluwajor,Maluwajor,Ramechhap,Manthali N.P.,7.45143978646461
+524 2 04 21 3 035,524 2 04 21 5 045,Bhatauli,Bhatauli,Ramechhap,Manthali N.P.,7.45143978646461
+524 2 04 21 3 035,524 2 04 21 5 047,Chisapani,Chisapani,Ramechhap,Manthali N.P.,7.45143978646461
+524 2 04 21 3 035,524 2 04 21 5 002,Kathjor,Kathjor,Ramechhap,Manthali N.P.,7.45143978646461
+524 2 04 21 3 035,524 2 04 21 5 030,Manthali,Manthali,Ramechhap,Manthali N.P.,7.45143978646461
+524 2 04 21 3 035,524 2 04 21 5 003,Salu,Salupati,Ramechhap,Manthali N.P.,7.45143978646461
+524 2 04 21 3 035,524 2 04 21 5 004,Sunarpani,Sunarpani,Ramechhap,Manthali N.P.,7.45143978646461
+524 2 04 21 5 036,524 2 04 21 5 026,Nagdaha,NagaDaha,Ramechhap,NagaDaha,7.375688934326172
+524 2 04 21 5 037,524 2 04 21 5 027,Namadi,Namadi,Ramechhap,Namadi,7.49375993013382
+524 2 04 21 5 039,524 2 04 21 5 041,Pakarbas,Pakarbas,Ramechhap,Pakarbas,7.652335596084595
+524 2 04 21 5 040,524 2 04 21 5 054,Phulasi,Phulasi,Ramechhap,Phulasi,7.60327536719186
+524 2 04 21 5 041,524 2 04 21 5 048,Pingkhuri,Pinkhuri,Ramechhap,Pinkhuri,7.6932633717854815
+524 2 04 21 5 042,524 2 04 21 5 016,Priti,Pritee,Ramechhap,Pritee,7.7398349444071455
+524 2 04 21 5 043,524 2 04 21 5 049,Puranagaun,Puranagau,Ramechhap,Puranagau,7.577687501907349
+524 2 04 21 5 044,524 2 04 21 5 042,Rakathum,Rakathum,Ramechhap,Rakathum,7.8491566975911455
+524 2 04 21 3 045,524 2 04 21 5 005,Okhreni,Okhreni,Ramechhap,Ramechhap N.P.,7.292686875661214
+524 2 04 21 3 045,524 2 04 21 5 001,Ramechhap,Ramechhap,Ramechhap,Ramechhap N.P.,7.292686875661214
+524 2 04 21 3 045,524 2 04 21 5 010,Sukajor,Sukajor,Ramechhap,Ramechhap N.P.,7.292686875661214
+524 2 04 21 5 046,524 2 04 21 5 008,Rampur,Rampur,Ramechhap,Rampur,7.096667909622193
+524 2 04 21 5 047,524 2 04 21 5 022,Rasanalu,Rasanalu,Ramechhap,Rasanalu,7.8486716747283936
+524 2 04 21 5 048,524 2 04 21 5 017,Saipu,Saipu,Ramechhap,Saipu,7.287193775177002
+524 2 04 21 5 050,524 2 04 21 5 009,Sandhutar,Sanghutar,Ramechhap,Sanghutar,7.1978302001953125
+524 2 04 21 5 053,524 2 04 21 5 023,Those,Those,Ramechhap,Those,8.107183889909225
+524 2 04 21 5 054,524 2 04 21 5 029,Tilpung,Tilpung,Ramechhap,Tilpung,7.406907463073731
+524 2 04 21 5 055,524 2 04 21 5 055,Thokarpur,Tokarpur,Ramechhap,Tokarpur,7.861526216779437
+524 2 05 29 5 001,524 2 05 29 5 005,Bhorle,Bhorle,Rasuwa,Bhorle,7.831292915344238
+524 2 05 29 5 002,524 2 05 29 5 016,Briddim,Bridhim,Rasuwa,Bridhim,7.830785414751838
+524 2 05 29 5 003,524 2 05 29 5 012,Chilime,Chilime,Rasuwa,Chilime,7.836330943637424
+524 2 05 29 5 004,524 2 05 29 5 009,Danda Gaun,Dandagoun,Rasuwa,Dandagoun,7.920096896943592
+524 2 05 29 5 005,524 2 05 29 5 002,Dhunche,Dhunche,Rasuwa,Dhunche,8.024787751111118
+524 2 05 29 5 006,524 2 05 29 5 011,Gatlang,Gatlang,Rasuwa,Gatlang,7.858941399773886
+524 2 05 29 5 007,524 2 05 29 5 018,Goljung,Goljung,Rasuwa,Goljung,7.840492566426595
+524 2 05 29 5 008,524 2 05 29 5 001,Haku,Haku,Rasuwa,Haku,7.8619751088759475
+524 2 05 29 5 009,524 2 05 29 5 006,Jibjibe (Nilkantha),Jibjibe(Nilkantha),Rasuwa,Jibjibe(Nilkantha),7.7958269119262695
+524 2 05 29 5 010,524 2 05 29 5 007,Laharepauwa,Laharepouwa,Rasuwa,Laharepouwa,7.8880486488342285
+524 2 05 29 5 011,524 2 05 29 5 015,Langtang,Langtang,Rasuwa,Langtang,7.714678018743341
+524 2 05 29 5 012,524 2 05 29 5 008,Ramche,Ramche,Rasuwa,Ramche,7.877969741821289
+524 2 05 29 5 013,524 2 05 29 5 004,Saramthali,Saramthali,Rasuwa,Saramthali,7.960843503475189
+524 2 05 29 5 014,524 2 05 29 5 017,Syaphru,Syafru,Rasuwa,Syafru,7.931913635947487
+524 2 05 29 5 015,524 2 05 29 5 010,Thulo Gaun,Thulogoun,Rasuwa,Thulogoun,7.867974162101746
+524 2 05 29 5 016,524 2 05 29 5 014,Thuman,Thuman,Rasuwa,Thuman,7.804026950489391
+524 2 05 29 5 017,524 2 05 29 5 013,Timure,Timure,Rasuwa,Timure,7.702266464233398
+524 2 05 29 5 018,524 2 05 29 5 003,Yarsa,Yarsa,Rasuwa,Yarsa,8.016315071671098
+524 2 04 20 5 001,524 2 04 20 5 045,Amale,Amale,Sindhuli,Amale,7.929333063272329
+524 2 04 20 5 002,524 2 04 20 5 007,Arunthakur,Arunthakur,Sindhuli,Arunthakur,6.667829895019532
+524 2 04 20 5 003,524 2 04 20 5 012,Bahuntilpung,Bahuntilpung,Sindhuli,Bahuntilpung,7.003721654415131
+524 2 04 20 5 004,524 2 04 20 5 028,Balajor,Balajor,Sindhuli,Balajor,7.201884814671108
+524 2 04 20 5 005,524 2 04 20 5 023,Baseshwar,Baseshwor,Sindhuli,Baseshwor,7.52482895417647
+524 2 04 20 5 006,524 2 04 20 5 046,Bastipur,Bastipur,Sindhuli,Bastipur,7.863276863098145
+524 2 04 20 5 007,524 2 04 20 5 029,Beldhari,Belghari,Sindhuli,Belghari,7.351357142130534
+524 2 04 20 5 008,524 2 04 20 5 034,Bhadrakali,Bhadrakali,Sindhuli,Bhadrakali,7.820265452067058
+524 2 04 20 5 009,524 2 04 20 5 036,Bhimeshwar,Bhimeshwor,Sindhuli,Bhimeshwor,7.615668217341105
+524 2 04 20 5 010,524 2 04 20 5 030,Bhimsthan,Bhimsthan,Sindhuli,Bhimsthan,7.3791599571704865
+524 2 04 20 5 011,524 2 04 20 5 024,Bhuvaneshwari Gwaltar,BhuwaneshoriGwaltar,Sindhuli,BhuwaneshoriGwaltar,7.438313802083333
+524 2 04 20 5 012,524 2 04 20 5 022,Bitijor Bagaincha,BitijorBagaiya,Sindhuli,BitijorBagaiya,7.2673035860061646
+524 2 04 20 5 013,524 2 04 20 5 037,Dandiguranse,Dadiguranshe,Sindhuli,Dadiguranshe,7.853071825844901
+524 2 04 20 5 014,524 2 04 20 5 025,Dudhbhanjyang,Dudbhanjyang,Sindhuli,Dudbhanjyang,7.127903699874878
+524 2 04 20 3 015,524 2 04 20 5 008,Dudhauli,Dudhouli,Sindhuli,Dudhouli N.P.,6.757068872451782
+524 2 04 20 3 015,524 2 04 20 5 010,Mahendra Ladabhir,Ladabhir(Mahendra),Sindhuli,Dudhouli N.P.,6.757068872451782
+524 2 04 20 3 015,524 2 04 20 5 011,Tandi,Tandi,Sindhuli,Dudhouli N.P.,6.757068872451782
+524 2 04 20 5 016,524 2 04 20 5 039,Hariharpurgadhi,HariharpurGadhi,Sindhuli,HariharpurGadhi,7.475122845691184
+524 2 04 20 5 017,524 2 04 20 5 013,Harsahi,Harsahi,Sindhuli,Harsahi,6.870027462641398
+524 2 04 20 5 018,524 2 04 20 5 031,Hatpate,Hatpate,Sindhuli,Hatpate,7.108635649961584
+524 2 04 20 5 019,524 2 04 20 5 035,Jalkanyachapauli,Jalkanya,Sindhuli,Jalkanya,7.664653062820435
+524 2 04 20 5 020,524 2 04 20 5 032,Jarayotar,Jarayotar,Sindhuli,Jarayotar,7.163868069648743
+524 2 04 20 5 021,524 2 04 20 5 044,Jhangajholi Ratmata,JhangajholiRalmata,Sindhuli,JhangajholiRalmata,7.886046091715495
+524 2 04 20 5 022,524 2 04 20 5 014,Jinakhu,Jinakhu,Sindhuli,Jinakhu,6.764131818498884
+524 2 04 20 5 023,524 2 04 20 5 009,Kakur Thakur,KakurThakur,Sindhuli,KakurThakur,6.527975177764892
+524 2 04 20 5 024,524 2 04 20 5 041,Kalpabrikshya,Kalpabrishykha,Sindhuli,Kalpabrishykha,7.72647360043648
+524 2 04 20 3 025,524 2 04 20 3 001,Kamalami Municipality,Kamalamai N.P.,Sindhuli,Kamalami N.P.,7.598779187057957
+524 2 04 20 5 026,524 2 04 20 5 040,Kapilakot,Kapilakot,Sindhuli,Kapilakot,7.675914342062814
+524 2 04 20 5 027,524 2 04 20 5 001,Khangsang,KhangSang,Sindhuli,Khangsang,6.907004276911418
+524 2 04 20 5 028,524 2 04 20 5 002,Kholagaun,Kholagaun,Sindhuli,Kholagaun,6.862029671669006
+524 2 04 20 5 029,524 2 04 20 5 050,Kusheshwar Dumja,KusesworDumja,Sindhuli,KusesworDumja,7.843504558910023
+524 2 04 20 5 030,524 2 04 20 5 021,Kyaneshwar,Kyaneshwor,Sindhuli,Kyaneshwor,7.433175336230885
+524 2 04 20 5 032,524 2 04 20 5 015,Lampantar,Lampantar,Sindhuli,Lampantar,7.0739123821258545
+524 2 04 20 5 033,524 2 04 20 5 003,Mahadevdanda,Mahadevdada,Sindhuli,Mahadevdada,6.777119233058049
+524 2 04 20 5 034,524 2 04 20 5 038,Mahadevsthan,Mahadevsthan,Sindhuli,Mahadevsthan,7.791786623001099
+524 2 04 20 5 035,524 2 04 20 5 042,Mahendrajhyadi,Mahendrajhayadi,Sindhuli,Mahendrajhayadi,7.538258819580078
+524 2 04 20 5 036,524 2 04 20 5 051,Majhuwa,Majhuwa,Sindhuli,Majhuwa,7.766606330871582
+524 2 04 20 5 037,524 2 04 20 5 047,Netrakali,Netrakali,Sindhuli,Netrakali,7.827767588875511
+524 2 04 20 5 038,524 2 04 20 5 033,Nipane,Nipane,Sindhuli,Nipane,7.105622863769531
+524 2 04 20 5 039,524 2 04 20 5 043,Pipalmadi,Pipalmadi,Sindhuli,Pipalmadi,7.469713497161865
+524 2 04 20 5 040,524 2 04 20 5 052,Puranojhangajholi,PuranoJhangajholi,Sindhuli,PuranoJhangajholi,7.870290703243679
+524 2 04 20 5 041,524 2 04 20 5 019,Ranibas,Ranibas,Sindhuli,Ranibas,7.45628115109035
+524 2 04 20 5 042,524 2 04 20 5 020,Ranichuri,Ranichuri,Sindhuli,Ranichuri,7.420561824526105
+524 2 04 20 5 043,524 2 04 20 5 026,Ratanchur,Ratanchura,Sindhuli,Ratanchura,7.626629889011383
+524 2 04 20 5 044,524 2 04 20 5 004,Ratnawati,Ratnawati,Sindhuli,Ratnawati,6.6606262751988
+524 2 04 20 5 045,524 2 04 20 5 048,Shanteshwari Rampur,Santeswori(Rampur),Sindhuli,Santeswori(Rampur),7.772916269302368
+524 2 04 20 5 046,524 2 04 20 5 016,Sirthauli,Sirthouli,Sindhuli,Sirthouli,6.858430809444851
+524 2 04 20 5 047,524 2 04 20 5 053,Sitalpati,Sitalpati,Sindhuli,Sitalpati,7.798920810222626
+524 2 04 20 5 048,524 2 04 20 5 005,Swalpathana,Solpathana,Sindhuli,Solpathana,6.811888837814331
+524 2 04 20 5 049,524 2 04 20 5 006,Sumnampokhari,SunamPokhari,Sindhuli,SunamPokhari,7.080501344468859
+524 2 04 20 5 050,524 2 04 20 5 049,Tamajor,Tamajor,Sindhuli,Tamajor,7.8650039831797285
+524 2 04 20 5 052,524 2 04 20 5 027,Tinkanya,Tinkanya,Sindhuli,Tinkanya,7.3547750386324795
+524 2 04 20 5 053,524 2 04 20 5 018,Tosarangkhola,Tosramkhola,Sindhuli,Tosramkhola,7.083081436157227
+524 2 04 20 5 054,524 2 04 20 5 017,Tribhuvan Ambote,TribhuvanAmbote,Sindhuli,TribhuvanAmbote,6.934512535730998
+524 2 05 23 5 001,524 2 05 23 5 022,Attarpur,Atarpur,Sindhupalchok,Atarpur,7.991122603416443
+524 2 05 23 5 002,524 2 05 23 5 044,Bandegaun,Badegau,Sindhupalchok,Badegau,7.94728422164917
+524 2 05 23 5 006,524 2 05 23 5 002,Barhabise,Barhabise,Sindhupalchok,Bahrabise,7.951360861460368
+524 2 05 23 5 004,524 2 05 23 5 054,Banskharka,Banskharka,Sindhupalchok,Banskharka,8.000754261016846
+524 2 05 23 5 005,524 2 05 23 5 053,Baramchae,Baramchi,Sindhupalchok,Baramchi,7.98727814356486
+524 2 05 23 5 007,524 2 05 23 5 070,Baruwa,Baruwa,Sindhupalchok,Baruwa,7.954916129509608
+524 2 05 23 5 008,524 2 05 23 5 033,Batase,Batase,Sindhupalchok,Batase,8.132025082906088
+524 2 05 23 5 009,524 2 05 23 5 045,Bhimtar,Bhimtar,Sindhupalchok,Bhimtar,7.846834182739258
+524 2 05 23 5 010,524 2 05 23 5 043,Bhotsipa,Bhotasipa,Sindhupalchok,Bhotasipa,8.048504829406738
+524 2 05 23 5 012,524 2 05 23 5 063,Bhotechaur,Bhotechaur,Sindhupalchok,Bhotechaur,7.691831016540528
+524 2 05 23 5 011,524 2 05 23 5 077,Bhotenamlang,BhoteNamlang,Sindhupalchok,BhoteNamlang,7.98915433883667
+524 2 05 23 3 014,524 2 05 23 5 035,Chautara,Choutara,Sindhupalchok,Chautara N.P.,8.31327814526028
+524 2 05 23 3 014,524 2 05 23 5 036,Pipaldanda,Pipaldanda,Sindhupalchok,Chautara N.P.,8.31327814526028
+524 2 05 23 3 014,524 2 05 23 5 037,Kubhinde,Kubhinde,Sindhupalchok,Chautara N.P.,8.31327814526028
+524 2 05 23 3 014,524 2 05 23 5 039,Sanusirubari,Sanusiruwari,Sindhupalchok,Chautara N.P.,8.31327814526028
+524 2 05 23 5 013,524 2 05 23 5 016,Chokati,Choukati,Sindhupalchok,Choukati,7.782261644090925
+524 2 05 23 5 015,524 2 05 23 5 008,Dhuyang,Dhumthang,Sindhupalchok,Dhuyang,7.923146804173787
+524 2 05 23 5 016,524 2 05 23 5 055,Dubachaur,Dubachour,Sindhupalchok,Dubachour,8.092233737309774
+524 2 05 23 5 018,524 2 05 23 5 030,Phulchodanda,Fulpingdandagau,Sindhupalchok,Fulpingdandagau,8.059069156646729
+524 2 05 23 5 019,524 2 05 23 5 005,Phulpingkatti,Fulpingkatti,Sindhupalchok,Fulpingkatti,7.817769675419249
+524 2 05 23 5 020,524 2 05 23 5 049,Phulpingkot,Fulpingkot,Sindhupalchok,Fulpingkot,8.041647911071777
+524 2 05 23 5 021,524 2 05 23 5 003,Gati,Gati,Sindhupalchok,Gati,7.855468477521624
+524 2 05 23 5 022,524 2 05 23 5 017,Ghorthali,Ghorthali,Sindhupalchok,Ghorthali,7.794515323638916
+524 2 05 23 5 023,524 2 05 23 5 015,Gunsakun,Ghuskun,Sindhupalchok,Ghuskun,7.900893330574036
+524 2 05 23 5 024,524 2 05 23 5 031,Golche,Gloche,Sindhupalchok,Gloche,7.859856923421224
+524 2 05 23 5 025,524 2 05 23 5 057,Gumba,Gumba,Sindhupalchok,Gumba,7.800687629397553
+524 2 05 23 5 026,524 2 05 23 5 067,Ghunsakot,Gunsakot,Sindhupalchok,Gunsakot,7.9416744112968445
+524 2 05 23 5 027,524 2 05 23 5 051,Hagam,Hagam,Sindhupalchok,Hagam,7.944249868392944
+524 2 05 23 5 028,524 2 05 23 5 079,Haibung,Haibung,Sindhupalchok,Haibung,7.65729033946991
+524 2 05 23 5 029,524 2 05 23 5 065,Helambu,Helumbu,Sindhupalchok,Helumbu,8.01395212235998
+524 2 05 23 5 030,524 2 05 23 5 058,Ichok,Ichok,Sindhupalchok,Ichok,8.277406760624476
+524 2 05 23 5 031,524 2 05 23 5 038,Irkhu,Irkhu,Sindhupalchok,Irkhu,8.247808456420898
+524 2 05 23 5 032,524 2 05 23 5 050,Jalbire,Jalbire,Sindhupalchok,Jalbire,7.978653907775879
+524 2 05 23 5 033,524 2 05 23 5 011,Jethal,Jethal,Sindhupalchok,Jethal,7.9085036516189575
+524 2 05 23 5 035,524 2 05 23 5 040,Kadambas,Kadambas,Sindhupalchok,Kadambas,8.121347904205322
+524 2 05 23 5 036,524 2 05 23 5 019,Kalika,Kalika,Sindhupalchok,Kalika,8.009462833404541
+524 2 05 23 5 037,524 2 05 23 5 001,Karthali,Karthali,Sindhupalchok,Karthali,7.877260303497314
+524 2 05 23 5 038,524 2 05 23 5 073,Kiul,Kiwool,Sindhupalchok,Kiwool,8.119664573669434
+524 2 05 23 5 040,524 2 05 23 5 046,Kunchok,Kunchok,Sindhupalchok,Kunchok,8.21776523590088
+524 2 05 23 5 041,524 2 05 23 5 076,Lagarche,Langarche,Sindhupalchok,Lagarche,7.98351914542062
+524 2 05 23 5 042,524 2 05 23 5 020,Lisangkhu,Lisankhu,Sindhupalchok,Lisankhu,7.9625331401824955
+524 2 05 23 5 043,524 2 05 23 5 007,Listokot,Listikot,Sindhupalchok,Listikot,7.83314847946167
+524 2 05 23 5 044,524 2 05 23 5 059,Mahangkal,Mahankal,Sindhupalchok,Mahankal,8.176272964477539
+524 2 05 23 5 045,524 2 05 23 5 009,Maneswar,Maneswor,Sindhupalchok,Maneswor,7.906437238057454
+524 2 05 23 5 046,524 2 05 23 5 029,Mangkha,Mankha,Sindhupalchok,Mankha,7.956181764602661
+524 2 05 23 5 047,524 2 05 23 5 004,Marming,Marming,Sindhupalchok,Marming,7.863554209470749
+524 2 05 23 3 048,524 2 05 23 5 060,Talamarang,Talramarang,Sindhupalchok,Melamchi N.P.,8.023377779758338
+524 2 05 23 3 048,524 2 05 23 5 061,Melamchi,Melamchi,Sindhupalchok,Melamchi N.P.,8.023377779758338
+524 2 05 23 3 048,524 2 05 23 5 062,Sindhukot,Sindhukot,Sindhupalchok,Melamchi N.P.,8.023377779758338
+524 2 05 23 3 048,524 2 05 23 5 066,Bansbari,Bansbari,Sindhupalchok,Melamchi N.P.,8.023377779758338
+524 2 05 23 3 048,524 2 05 23 5 074,Shikharpur,Sikharpur,Sindhupalchok,Melamchi N.P.,8.023377779758338
+524 2 05 23 3 048,524 2 05 23 5 075,Jyamire,Jyamire,Sindhupalchok,Melamchi N.P.,8.023377779758338
+524 2 05 23 3 048,524 2 05 23 5 078,Phataksila,Fatakshila,Sindhupalchok,Melamchi N.P.,8.023377779758338
+524 2 05 23 5 049,524 2 05 23 5 069,Bhotang,Motang,Sindhupalchok,Motang,7.879700103048551
+524 2 05 23 5 050,524 2 05 23 5 048,Nawalpur,Nawalpur,Sindhupalchok,Nawalpur,7.990473651885987
+524 2 05 23 5 051,524 2 05 23 5 027,Pangretar,Pagretar,Sindhupalchok,Pagretar,8.003519177436829
+524 2 05 23 5 052,524 2 05 23 5 056,Palchok,Palchok,Sindhupalchok,Palchok,8.12588119506836
+524 2 05 23 5 053,524 2 05 23 5 072,Pangtang,Pangtang,Sindhupalchok,Pangtang,7.899441401163737
+524 2 05 23 5 054,524 2 05 23 5 010,Pedku,Petaku,Sindhupalchok,Petaku,7.889720439910889
+524 2 05 23 5 056,524 2 05 23 5 014,Piskar,Piskar,Sindhupalchok,Piskar,7.874197483062744
+524 2 05 23 5 057,524 2 05 23 5 028,Ramche,Ramche,Sindhupalchok,Ramche,7.90540870030721
+524 2 05 23 5 058,524 2 05 23 5 042,Sangachok,Sangachok,Sindhupalchok,Sangachok,7.998739348517524
+524 2 05 23 5 060,524 2 05 23 5 032,Selang,Selang,Sindhupalchok,Selang,8.030854403972626
+524 2 05 23 5 064,524 2 05 23 5 047,Sinpal Kavre,SipalKavre,Sindhupalchok,SipalKavre,8.012453238169352
+524 2 05 23 5 063,524 2 05 23 5 052,Sipapokharae,SipaPokhare,Sindhupalchok,SipaPokhare,8.051751375198364
+524 2 05 23 5 065,524 2 05 23 5 023,Sunkhani,Sunkhani,Sindhupalchok,Sunkhani,7.995522618293762
+524 2 05 23 5 066,524 2 05 23 5 034,Syaule,SyauleBazar,Sindhupalchok,SyauleBazar,8.068455832345146
+524 2 05 23 5 068,524 2 05 23 5 006,Tatopani,Tatopani,Sindhupalchok,Tatopani,7.780212272297252
+524 2 05 23 5 069,524 2 05 23 5 013,Tauthali,Tauthali,Sindhupalchok,Tauthali,7.880467278616769
+524 2 05 23 5 070,524 2 05 23 5 012,Tekanpur,Tekanpur,Sindhupalchok,Tekanpur,7.916528224945068
+524 2 05 23 5 071,524 2 05 23 5 071,Thakani,Thakani,Sindhupalchok,Thakani,7.992298682530721
+524 2 05 23 5 072,524 2 05 23 5 064,Ghuyang (Thanpalchap),ThampalChhap,Sindhupalchok,ThampalChhap,8.009084304173788
+524 2 05 23 5 073,524 2 05 23 5 068,Thapalkot,Thanpalkot,Sindhupalchok,Thanpalkot,7.944358144487653
+524 2 05 23 5 074,524 2 05 23 5 018,Thokarpa,Thokarpa,Sindhupalchok,Thokarpa,8.000351769583565
+524 2 05 23 5 075,524 2 05 23 5 021,Thulo Dhading,ThuloDhading,Sindhupalchok,ThuloDhading,8.025935459136964
+524 2 05 23 5 076,524 2 05 23 5 025,Thulo Pakhar,ThuloPakhar,Sindhupalchok,ThuloPakhar,7.948783874511719
+524 2 05 23 5 077,524 2 05 23 5 041,Thulo Sirubari,ThuloSirubari,Sindhupalchok,ThuloSirubari,8.216136523655482
+524 2 05 23 5 078,524 2 05 23 5 026,Thumpakhar,ThumPakhar,Sindhupalchok,ThumPakhar,7.949268937110901
+524 2 05 23 5 079,524 2 05 23 5 024,Yamuna Danda,Yamunadanda,Sindhupalchok,Yamunadanda,8.1074697971344

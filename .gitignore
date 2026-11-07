@@ -1,0 +1,36 @@
+__pycache__/
+data/raw/
+data/synthetic/
+results/*synthetic*/
+results/rf_*/
+*.pyx
+.ipynb_checkpoints/
+data/processed/msi_buildings.csv
+data/processed/_conversion_v1_dump.csv
+*.zip
+
+# large, regenerable model outputs (scripts/03_xgboost.py)
+results/*/models/
+results/*/parts/
+results/*/test_predictions.npz
+results/*quick*/
+*.log
+
+# local torch wheel for the Cowork VM (not part of the project)
+wheels/
+
+# SHAP value cache (scripts/05_shap.py regenerates it)
+results/shap/*.npz
+
+# report (kept in Overleaf, not in this repo)
+paper/
+
+# macOS
+.DS_Store
+
+# internal working notes
+docs/HANDOFF.md
+
+# not shared
+docs/
+LICENSE

@@ -1,0 +1,34 @@
+{
+  "full_5dg": {
+    "ordinal_crossing_rate_test": 0.05625939023350107,
+    "ordinal_trees_per_threshold": [
+      575,
+      810,
+      1005,
+      915
+    ]
+  },
+  "full_tl": {
+    "ordinal_crossing_rate_test": 0.016553054409227195,
+    "ordinal_trees_per_threshold": [
+      810,
+      1005
+    ]
+  },
+  "basic_5dg": {
+    "ordinal_crossing_rate_test": 0.05761092777147206,
+    "ordinal_trees_per_threshold": [
+      574,
+      765,
+      1022,
+      948
+    ]
+  },
+  "basic_tl": {
+    "ordinal_crossing_rate_test": 0.018777186571227997,
+    "ordinal_trees_per_threshold": [
+      765,
+      1022
+    ]
+  }
+}
